@@ -1,0 +1,29 @@
+Retail Process
+
+1) Purchasing
+2) Handling Inventory
+3) Customer Service
+4) Accounting
+
+Banking Process
+
+1) Customer
+2) corporate
+3) Savings account
+4) Personal account
+5) Accounting
+6) Credit card departemnt
+7) Debit card department
+8) Loans - Jewel/Home Loan/Educational loan
+
+
+IT/BPO
+
+1) Recuritment
+2) Onboarding
+3) New Joiner orientaion
+4) Payroll
+5) Assignment
+6) Performance Appraisal
+7) Exit/Termination
+
