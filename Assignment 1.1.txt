@@ -1,0 +1,19 @@
+1. Say True or False for the below statements:
+
+•	Prescriptive Analytics used to predict the future outcomes?
+Answer: FALSE
+Prescriptive (optimization and simulation) Analytics is used to determine the possible outcomes on “What should we do?” rather “What has happened?” which is done in Predictive Analysis
+
+•	Base R packages installed automatically?
+Answer: TRUE
+Refer : https://mran.microsoft.com/rro/installed
+
+2. What is Recycling of elements in a vector?
+     When applying an operation to two vectors that requires them to be the same length, R automatically recycles, or repeats, the shorter one, until it is long enough to match the longer one.
+
+3. Give an example of recycling of elements.     
+  > c(1,2,4) + c(6,0,9,20,22)
+[1]  7  2 13 21 24
+Warning message:
+longer object length
+  is not a multiple of shorter object length in: c(1, 2, 4) + c(6,  0, 9, 20, 22)
